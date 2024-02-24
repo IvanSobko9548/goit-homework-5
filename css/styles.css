@@ -702,14 +702,12 @@ color: #2E2F42;
 .close-btn:hover {
     background-color: #404bbf;
     border: none;
-    fill: #ffffff;
 
 }
 
 .close-btn:focus {
         background-color: #404bbf;
             border: none;
-            fill: #ffffff;
 }
 
 .modal-close {
@@ -726,6 +724,14 @@ color: #2E2F42;
     position: absolute;
     color: rgba(46, 47, 66, 0.7); */
 
+}
+
+.modal-close:hover {
+    fill: #ffffff;
+}
+
+.modal-close:focus {
+    fill: #ffffff;
 }
 
 .modal-title {
