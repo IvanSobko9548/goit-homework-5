@@ -766,7 +766,7 @@ color: #2E2F42;
 }
 
 .modal-field {
-margin-bottom: 8px;
+margin-bottom: 16px;
 }
 
 .modal-label {
@@ -820,4 +820,14 @@ margin-bottom: 8px;
 
 .modal-textarea:focus {
     border-color: #4D5AE5;
+}
+
+.checkbox-privacy {
+    margin-bottom: 24px;
+
+}
+
+.input-privacy {
+    visually-hidden;
+    
 }
