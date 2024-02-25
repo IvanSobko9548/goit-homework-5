@@ -730,13 +730,13 @@ color: #2E2F42;
 
 }
 
-.modal-close:hover {
+/* .modal-close:hover {
     fill: #ffffff;
 }
 
 .modal-close:focus {
     fill: #ffffff;
-}
+} */
 
 .modal-title {
     font-size: 16px;
@@ -751,6 +751,10 @@ color: #2E2F42;
 
 .modal-form {
 
+}
+
+.modal-field-contacts {
+    margin-bottom: 8px;
 }
 
 .modal-input {
@@ -768,7 +772,7 @@ color: #2E2F42;
 }
 
 .modal-field {
-margin-bottom: 8px;
+margin-bottom: 16px;
 }
 
 .modal-label {
@@ -800,10 +804,6 @@ margin-bottom: 8px;
 
 .modal-input:focus {
     border-color: #4D5AE5;
-}
-
-.modal-field-contact {
-    margin-bottom: 16px;
 }
 
 .modal-textarea {
