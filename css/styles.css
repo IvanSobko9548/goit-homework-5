@@ -541,6 +541,7 @@ color: #2E2F42;
 }
 
 .footer-social-media {
+    margin-right: auto;
 
 }
 
@@ -648,6 +649,16 @@ color: #2E2F42;
     border: none;
     border-radius: 4px;
 
+}
+
+.subs-btn:hover {
+    color: #FFF;
+    background-color: #404BBF;
+}
+
+.subs-btn:focus {
+    color: #FFF;
+    background-color: #404BBF;
 }
 
 .send-icon {
@@ -814,6 +825,7 @@ margin-bottom: 8px;
 
 .checkbox-privacy {
     margin-bottom: 24px;
+    margin-right: 8px;
 
 }
 
@@ -863,4 +875,16 @@ margin-bottom: 8px;
     background-color: #4D5AE5;
     border: none;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    border-radius: 0 auto;
+    margin: 0 auto;
+}
+
+.send-btn-form:hover {
+    color: #FFF;
+    background-color: #404BBF;
+}
+
+.send-btn-form:focus {
+    color: #FFF;
+    background-color: #404BBF;
 }
