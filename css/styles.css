@@ -752,7 +752,11 @@ color: #2E2F42;
 }
 
 .modal-field {
-margin-bottom: 16px;
+margin-bottom: 8px;
+}
+
+.container-textarea {
+    margin-bottom: 16px;
 }
 
 .modal-label {
