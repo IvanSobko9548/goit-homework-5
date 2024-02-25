@@ -699,19 +699,12 @@ color: #2E2F42;
 
 }
 
+
+.close-btn:focus,
 .close-btn:hover {
-    background-color: #404bbf;
-    border: none;
-    fill: #ffffff;
-    
-
-
-}
-
-.close-btn:focus {
         background-color: #404bbf;
-            border: none;
-            fill: #ffffff;
+        border: none;
+        fill: #ffffff;
 
 }
 
